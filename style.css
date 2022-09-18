@@ -1,0 +1,15 @@
+body {
+    background-color: lightblue;
+}
+h1 {
+    color: white;
+}
+p {
+    font-family: verdana, arial, sans-serif;
+    font-size: 20 px
+}
+div { 
+font-size: 20 px;
+color: rgb(22, 22, 73);
+}
+
